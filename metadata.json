@@ -1,0 +1,6 @@
+{
+  "name": "Skeleton Shimmer Demo",
+  "description": "A demonstration of a shiny gray skeleton loading state for UI/UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
